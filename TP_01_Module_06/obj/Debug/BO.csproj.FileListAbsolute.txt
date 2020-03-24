@@ -1,0 +1,6 @@
+C:\Users\Martin\source\repos\TP_01_Module_06\TP_01_Module_06\bin\Debug\BO.dll
+C:\Users\Martin\source\repos\TP_01_Module_06\TP_01_Module_06\bin\Debug\BO.pdb
+C:\Users\Martin\source\repos\TP_01_Module_06\TP_01_Module_06\obj\Debug\BO.csprojAssemblyReference.cache
+C:\Users\Martin\source\repos\TP_01_Module_06\TP_01_Module_06\obj\Debug\BO.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\TP_01_Module_06\TP_01_Module_06\obj\Debug\BO.dll
+C:\Users\Martin\source\repos\TP_01_Module_06\TP_01_Module_06\obj\Debug\BO.pdb
